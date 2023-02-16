@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSWin", "SMSWin\SMSWin.csproj", "{FBF6434C-EBE3-4DB8-B0B9-616CB4C99AFA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SMS", "SMS\SMS.vdproj", "{6CF34994-9ADC-4D3A-B570-30E4317AA409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF6434C-EBE3-4DB8-B0B9-616CB4C99AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF6434C-EBE3-4DB8-B0B9-616CB4C99AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF6434C-EBE3-4DB8-B0B9-616CB4C99AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF6434C-EBE3-4DB8-B0B9-616CB4C99AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF34994-9ADC-4D3A-B570-30E4317AA409}.Debug|Any CPU.ActiveCfg = Debug
+		{6CF34994-9ADC-4D3A-B570-30E4317AA409}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9011EA7A-EF29-47AE-A892-2887B6B38604}
+	EndGlobalSection
+EndGlobal
